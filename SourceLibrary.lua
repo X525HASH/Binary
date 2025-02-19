@@ -53,7 +53,6 @@ local library = {
     },
     stats = {
         ['fps'] = 0;
-        ['ping'] = 0;
     };
     images = {
         ['gradientp90'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/gradient90.png';
